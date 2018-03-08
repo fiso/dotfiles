@@ -1,0 +1,33 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Operator Mono, Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 18,
+    "workbench.colorCustomizations" : {
+        "editorBracketMatch.background": "#f0d7",
+        "editorBracketMatch.border": "#0000"
+    },
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.cursorStyle": "block",
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderWhitespace": "boundary",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "editor.minimap.enabled": false,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "workbench.activityBar.visible": false,
+    "editor.multiCursorModifier": "alt",
+    "explorer.openEditors.visible": 0,
+    "explorer.autoReveal": false,
+    "docker.showExplorer": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "editor.formatOnPaste": false
+}
