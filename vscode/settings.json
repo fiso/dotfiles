@@ -2,7 +2,7 @@
 {
     "workbench.colorTheme": "Monokai",
     "workbench.iconTheme": "material-icon-theme",
-    "editor.fontFamily": "Operator Mono, Fira Code",
+    "editor.fontFamily": "Operator Mono Book, Fira Code, monospace",
     "editor.fontLigatures": true,
     "editor.fontSize": 18,
     "workbench.colorCustomizations" : {
@@ -29,5 +29,6 @@
     "docker.showExplorer": false,
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
-    "editor.formatOnPaste": false
+    "editor.formatOnPaste": false,
+    "workbench.editor.enablePreview": false
 }
